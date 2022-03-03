@@ -1,4 +1,5 @@
-# practica de programacion
- 
-BIENVENIDOS
+# practica de programacio
+
+HOLA MUNDO
+
 
