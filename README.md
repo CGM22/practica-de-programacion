@@ -1,2 +1,3 @@
 # practica de programacion
- Practicas de programacion
+ 
+ primeros cambios con github
